@@ -1,4 +1,6 @@
 # first-repo
-this is my first github repo
+This is my first github repo
+<br>
 Hey!
+<br>
 My name is HItesh 
